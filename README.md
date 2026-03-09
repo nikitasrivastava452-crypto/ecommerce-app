@@ -1,3 +1,31 @@
+# Ecommerce React App
+
+Tech Stack
+- React
+- TypeScript
+- Axios
+- JSON Server (mock backend)
+
+## Run the project
+
+1. Install dependencies
+npm install
+
+2. Start backend
+npx json-server --watch backend-app/db.json --port 3000
+
+3. Start frontend
+npm run dev
+
+
+
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
